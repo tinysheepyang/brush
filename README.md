@@ -1,4 +1,4 @@
-web刷量 python+selenium+xvfb+Firefox打开浏览器浏览网页<h2\><br />
+web刷量 python+selenium+xvfb+Firefox打开浏览器浏览网页\<h2\><br />
 python2.7 selenium==2.53.6<h2\><br />
 
 1.centos xvfb安装<h2\><br />
